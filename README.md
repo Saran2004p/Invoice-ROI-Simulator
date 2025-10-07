@@ -35,23 +35,30 @@ Frontend is hosted on **Netlify**, and the backend is hosted on **Render**.
 ### Install dependencies
 
 #### Backend
+```
 cd backend
 npm install
-
+```
 
 #### Frontend
+```
 cd ../frontend
 npm install
+```
 
 ### Run the application
 
 #### Backend
+```
 cd backend
 npm run dev
+```
 
 #### Frontend
+```
 cd ../frontend
 npm run dev
+```
 
 ---
 
