@@ -66,7 +66,7 @@ Automated Cost = (Subscription + Setup + Maintenance)
 ---
 
 ## Folder Structure
-
+```
 Complyance/
 │
 ├── backend/
@@ -86,7 +86,7 @@ Complyance/
 │   └── .env
 │
 └── README.md
-
+```
 ---
 
 ## API Endpoints
